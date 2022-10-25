@@ -1,3 +1,5 @@
+#include <vector>
+
 vector<int> finalPrices(vector<int> &prices)
 {
     size_t size = prices.size() - 1;
